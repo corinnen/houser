@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: rgb(166, 206, 184);
+  height: 100vh;
+  width:100%;
+}
+.Nav {
+  background-color: rgb(71, 141, 103);
+  color: white;
+  font-size: 18px;
+  height: 75px;
+  width: 100%vh;
+  align-items: center;
+  margin-top: 0;
+  font-family: tahoma;
+  display: flex;
+  justify-content: center;
+  padding-right: 40%;
+  font-weight: 600;
+}
+/* #img {
+  height: 75px;
+  src: "houser.png";
+} */
+/* 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
